@@ -109,4 +109,4 @@ We provide [English](http://www.paddlepaddle.org.cn/documentation/docs/en/1.5/be
 ## Copyright and License
 PaddlePaddle is provided under the [Apache-2.0 license](LICENSE).
 
-test cmakke plugin
+test cmake
